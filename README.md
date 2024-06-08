@@ -32,7 +32,7 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VNeris&theme=dark&show_icons=true&icon_color=195CFC&border_color=222" />
-  <img align="right" height="200" width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=VNeris&show_icons=true&layout=compact&theme=dark&icon_color=e8002e&langs_count=6&border_color=222"/>
+  <img align="center" height="200" width="355" src="https://github-readme-stats.vercel.app/api/top-langs?username=VNeris&show_icons=true&layout=compact&theme=dark&icon_color=e8002e&langs_count=6&border_color=222"/>
   
 </div>
 
