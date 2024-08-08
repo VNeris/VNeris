@@ -9,9 +9,9 @@
   
 - 👯 Procuro oportunidades como **desenvolvedor front-end**
   
-- 📫 Entre em contato comigo **contato@vneris.com.br**
+- 📫 Entre em contato comigo **vinipaiva50@gmail.com**
   
-- 📄 Conheça minhas experiências <a href="file:///E:/jpedr/Documents/vini/Curr%C3%ADculo-1.pdf">CV<a>
+- 📄 Conheça minhas experiências <a href="https://vneris.github.io/portfolio/assets/Vinicius%20Neris%20CV-Dk02lmhA.pdf">CV<a>
 
    ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -42,11 +42,11 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 30px;" ></a>
         <a style="margin-left: 120px;" target="_blank" href="https://github.com/VNeris">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"style="margin-left: 30px;></a>
            <a style="margin-left: 120px;" target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTNzQlTsHnhrkjJHxkcfPJDcVmLQZDPgFLQDmGGkGJhGplmjvfVJMZWqTzvGnTGsTXPBG">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" margin-left: 10px width:35px; height:43px;"></a>
 		<a style="margin-left: 120px;" target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRmTNzQlTsHnhrkjJHxkcfPJDcVmLQZDPgFLQDmGGkGJhGplmjvfVJMZWqTzvGnTGsTXPBG">
       </div>
 
