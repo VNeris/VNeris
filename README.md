@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando freelance
   
-- 🌱 Atualmente estou estudando **Reactjs**
+- 🌱 Atualmente estou estudando **Angular**
   
 - 👯 Procuro oportunidades como **desenvolvedor front-end**
   
